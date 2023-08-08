@@ -1,0 +1,734 @@
+fileFormatVersion: 2
+guid: 05ab51984ba9740038359523042e04c1
+importerOverride:
+  nativeImporterType: 2089858483
+  scriptedImporterType:
+    serializedVersion: 2
+    Hash: b10b55a1aa6a1aa32521bc0cab59632e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 200
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: Shot Effect 01
+    originalName: 
+    pivot: {x: 0.22491536, y: 0.5288567}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 445
+      y: 4
+      width: 38
+      height: 18
+    spriteID: f375906a6b8f14424b184d41853fee2a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 445, y: 4}
+    spritePosition: {x: 247, y: 233}
+  - name: Shot Effect 02
+    originalName: 
+    pivot: {x: 0.09856334, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 322
+      y: 36
+      width: 76
+      height: 21
+    spriteID: 6661431a9db3c4773a5a041146076029
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 322, y: 36}
+    spritePosition: {x: 248, y: 232}
+  - name: Shot Effect 03
+    originalName: 
+    pivot: {x: 0.073916495, y: 0.5231128}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 322
+      y: 4
+      width: 115
+      height: 24
+    spriteID: debfff9c9104d4b68ae87e6591115d3b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 322, y: 4}
+    spritePosition: {x: 247, y: 230}
+  - name: Shot Effect 04
+    originalName: 
+    pivot: {x: 0.06727514, y: 0.5285871}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 469
+      width: 127
+      height: 35
+    spriteID: 6f9cb4f2157e04129939f61e8949de39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 469}
+    spritePosition: {x: 247, y: 224}
+  - name: Shot Effect 05
+    originalName: 
+    pivot: {x: 0.045045465, y: 0.5515308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 411
+      width: 143
+      height: 50
+    spriteID: 2718f26f33d6547b49a4dff4c39f3525
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 411}
+    spritePosition: {x: 249, y: 215}
+  - name: Shot
+    originalName: 
+    pivot: {x: 0.9508713, y: 0.4596173}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 155
+      y: 465
+      width: 153
+      height: 23
+    spriteID: 0d778f47b45f246e2a5195fad4943cf2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 155, y: 465}
+    spritePosition: {x: 243, y: 229}
+  - name: Turret
+    originalName: 
+    pivot: {x: 0.22695784, y: 0.5322166}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 155
+      y: 411
+      width: 99
+      height: 46
+    spriteID: 9cfb435b94f8842989de2549271d29b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 155, y: 411}
+    spritePosition: {x: 127, y: 257}
+  - name: Ship
+    originalName: 
+    pivot: {x: 0.3273168, y: 0.8308673}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 310
+      height: 399
+    spriteID: 7f2c8abe9e9c949468baf887a4ae9554
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 103, y: 59}
+  rigSpriteImportData:
+  - name: Shot Effect 01
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 254
+      y: 488
+      width: 34
+      height: 14
+    spriteID: 8813f961b25834774944414b68ddd00b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 254, y: 488}
+    spritePosition: {x: 247, y: 233}
+  - name: Shot Effect 02
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 318
+      y: 4
+      width: 72
+      height: 17
+    spriteID: 2e6797383dbdb429cb26ce2667d52956
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 318, y: 4}
+    spritePosition: {x: 248, y: 232}
+  - name: Shot Effect 03
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 135
+      y: 488
+      width: 111
+      height: 20
+    spriteID: 432ac0abee9774426a3ae027d1f19ee6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 135, y: 488}
+    spritePosition: {x: 247, y: 230}
+  - name: Shot Effect 04
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 461
+      width: 123
+      height: 31
+    spriteID: 0c498d924ecd941baaa450e4f15f0c3a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 461}
+    spritePosition: {x: 247, y: 224}
+  - name: Shot Effect 05
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 407
+      width: 139
+      height: 46
+    spriteID: 2ff49cfecca834fba921b1ba1cd2f5ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 407}
+    spritePosition: {x: 249, y: 215}
+  - name: Shot
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 135
+      y: 461
+      width: 149
+      height: 19
+    spriteID: 4e326c808193547d29d37749ebcec810
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 135, y: 461}
+    spritePosition: {x: 243, y: 229}
+  - name: Turret
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 407
+      width: 95
+      height: 42
+    spriteID: 2fa00e587140045d9a0d1976a65fe396
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 407}
+    spritePosition: {x: 127, y: 257}
+  - name: Ship
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 306
+      height: 395
+    spriteID: ef851e1b642024aacbc9a3653d4aaf44
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 103, y: 59}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: iPhone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  padding: 4
+  spriteSizeExpand: 4
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers:
+  - name: Shot Effect
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: f918a336620164dcfbdb707ecfb7d0e0
+    layerID: 12
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Shot Effect 01
+    spriteName: Shot Effect 01
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f375906a6b8f14424b184d41853fee2a
+    layerID: 11
+    mosaicPosition: {x: 445, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Shot Effect 02
+    spriteName: Shot Effect 02
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6661431a9db3c4773a5a041146076029
+    layerID: 10
+    mosaicPosition: {x: 322, y: 36}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Shot Effect 03
+    spriteName: Shot Effect 03
+    isGroup: 0
+    parentIndex: 0
+    spriteID: debfff9c9104d4b68ae87e6591115d3b
+    layerID: 9
+    mosaicPosition: {x: 322, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Shot Effect 04
+    spriteName: Shot Effect 04
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6f9cb4f2157e04129939f61e8949de39
+    layerID: 8
+    mosaicPosition: {x: 4, y: 469}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Shot Effect 05
+    spriteName: Shot Effect 05
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2718f26f33d6547b49a4dff4c39f3525
+    layerID: 7
+    mosaicPosition: {x: 4, y: 411}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Shot
+    spriteName: Shot
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0d778f47b45f246e2a5195fad4943cf2
+    layerID: 5
+    mosaicPosition: {x: 155, y: 465}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Turret
+    spriteName: Turret
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9cfb435b94f8842989de2549271d29b9
+    layerID: 4
+    mosaicPosition: {x: 155, y: 411}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ship
+    spriteName: Ship
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7f2c8abe9e9c949468baf887a4ae9554
+    layerID: 3
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  rigPSDLayers:
+  - name: Shot Effect
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 4a1efcd117e604241a8c66b42eccf906
+    layerID: 12
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Shot Effect 01
+    spriteName: Shot Effect 01
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8813f961b25834774944414b68ddd00b
+    layerID: 11
+    mosaicPosition: {x: 254, y: 488}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Shot Effect 02
+    spriteName: Shot Effect 02
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2e6797383dbdb429cb26ce2667d52956
+    layerID: 10
+    mosaicPosition: {x: 318, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Shot Effect 03
+    spriteName: Shot Effect 03
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 432ac0abee9774426a3ae027d1f19ee6
+    layerID: 9
+    mosaicPosition: {x: 135, y: 488}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Shot Effect 04
+    spriteName: Shot Effect 04
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0c498d924ecd941baaa450e4f15f0c3a
+    layerID: 8
+    mosaicPosition: {x: 4, y: 461}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Shot Effect 05
+    spriteName: Shot Effect 05
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2ff49cfecca834fba921b1ba1cd2f5ba
+    layerID: 7
+    mosaicPosition: {x: 4, y: 407}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Shot
+    spriteName: Shot
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4e326c808193547d29d37749ebcec810
+    layerID: 5
+    mosaicPosition: {x: 135, y: 461}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Turret
+    spriteName: Turret
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2fa00e587140045d9a0d1976a65fe396
+    layerID: 4
+    mosaicPosition: {x: 151, y: 407}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ship
+    spriteName: Ship
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ef851e1b642024aacbc9a3653d4aaf44
+    layerID: 3
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638270015734803210
+  spriteSizeExpandChanged: 1
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
