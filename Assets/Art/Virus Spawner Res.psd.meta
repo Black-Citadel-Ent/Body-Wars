@@ -1,0 +1,2262 @@
+fileFormatVersion: 2
+guid: 7aa8ed82a129e4c0d8b8850e3e0c4759
+importerOverride:
+  nativeImporterType: 2089858483
+  scriptedImporterType:
+    serializedVersion: 2
+    Hash: b10b55a1aa6a1aa32521bc0cab59632e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: Virus Spawner Large
+    originalName: 
+    pivot: {x: 0.5090526, y: 0.5306626}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 535
+      y: 373
+      width: 170
+      height: 133
+    spriteID: 828ff2333aba34c139727a45b84bc6da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 535, y: 373}
+    spritePosition: {x: 168, y: 194}
+  - name: Virus Spawner Medium
+    originalName: 
+    pivot: {x: 0.46760714, y: 0.524851}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 499
+      y: 532
+      width: 138
+      height: 119
+    spriteID: 335c73173180348789b112fc7065eb73
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 499, y: 532}
+    spritePosition: {x: 190, y: 202}
+  - name: Virus Spawner Small
+    originalName: 
+    pivot: {x: 0.48832104, y: 0.59086156}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 891
+      y: 373
+      width: 112
+      height: 94
+    spriteID: 8e6682d3bc5904ff4a9548f0b7f91c16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 891, y: 373}
+    spritePosition: {x: 200, y: 209}
+  - name: Virus Spawner Large To Medium 01
+    originalName: 
+    pivot: {x: 0.50905293, y: 0.52256304}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 713
+      y: 373
+      width: 170
+      height: 133
+    spriteID: be9e53df061574bbfb9abb13bdb86437
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 713, y: 373}
+    spritePosition: {x: 168, y: 195}
+  - name: Virus Spawner Large To Medium 02
+    originalName: 
+    pivot: {x: 0.50603265, y: 0.5200399}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 373
+      width: 171
+      height: 151
+    spriteID: dcb2449e780a3491fafe2ada821a1550
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 373}
+    spritePosition: {x: 168, y: 186}
+  - name: Virus Spawner Large To Medium 03
+    originalName: 
+    pivot: {x: 0.5031987, y: 0.50664043}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 183
+      y: 373
+      width: 172
+      height: 145
+    spriteID: c258c0e0d89ba4451955064caea815c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 183, y: 373}
+    spritePosition: {x: 168, y: 191}
+  - name: Virus Spawner Large To Medium 04
+    originalName: 
+    pivot: {x: 0.5178765, y: 0.5109922}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 578
+      y: 196
+      width: 198
+      height: 140
+    spriteID: 28da2a1921582431db44656edfd81a0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 578, y: 196}
+    spritePosition: {x: 152, y: 193}
+  - name: Virus Spawner Large To Medium 05
+    originalName: 
+    pivot: {x: 0.5, y: 0.5274306}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 481
+      y: 4
+      width: 213
+      height: 166
+    spriteID: 059cb700a226948df8d30e78e08df4d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 481, y: 4}
+    spritePosition: {x: 148, y: 177}
+  - name: Virus Spawner Large To Medium 06
+    originalName: 
+    pivot: {x: 0.508612, y: 0.5188748}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 233
+      height: 184
+    spriteID: 2e66ad64ab30c4b10b6b3279f0ba065e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 136, y: 169}
+  - name: Virus Spawner Large To Medium 07
+    originalName: 
+    pivot: {x: 0.50643146, y: 0.52741265}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 4
+      width: 228
+      height: 183
+    spriteID: 2bffaef65383244f2a51377933ae183d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 245, y: 4}
+    spritePosition: {x: 139, y: 168}
+  - name: Virus Spawner Large To Medium 08
+    originalName: 
+    pivot: {x: 0.49058837, y: 0.5094118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 702
+      y: 4
+      width: 205
+      height: 164
+    spriteID: 4d59300165c3c4b7ea50eb1a559d9d43
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 702, y: 4}
+    spritePosition: {x: 154, y: 181}
+  - name: Virus Spawner Medium To Small 01
+    originalName: 
+    pivot: {x: 0.4832593, y: 0.47290778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 339
+      y: 532
+      width: 152
+      height: 132
+    spriteID: 186663c2edde440e4a122d3ee7f38ca6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 339, y: 532}
+    spritePosition: {x: 181, y: 202}
+  - name: Virus Spawner Medium To Small 02
+    originalName: 
+    pivot: {x: 0.46930823, y: 0.41943914}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 784
+      y: 196
+      width: 178
+      height: 149
+    spriteID: 6df58bb90e74648ef968f0d04611050e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 784, y: 196}
+    spritePosition: {x: 171, y: 202}
+  - name: Virus Spawner Medium To Small 03
+    originalName: 
+    pivot: {x: 0.48166054, y: 0.4563269}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 532
+      width: 165
+      height: 137
+    spriteID: 22884b5b219c94c61b7413034b1757ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 532}
+    spritePosition: {x: 175, y: 202}
+  - name: Virus Spawner Medium To Small 04
+    originalName: 
+    pivot: {x: 0.46058878, y: 0.5101526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 363
+      y: 373
+      width: 164
+      height: 144
+    spriteID: 27199eaf8c6d94c05b8f34494608411b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 363, y: 373}
+    spritePosition: {x: 179, y: 191}
+  - name: Virus Spawner Medium To Small 05
+    originalName: 
+    pivot: {x: 0.5028651, y: 0.51501393}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 196
+      width: 188
+      height: 164
+    spriteID: 22f363dafb4d943ceb9937255fc2396f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 195, y: 196}
+    spritePosition: {x: 160, y: 180}
+  - name: Virus Spawner Medium To Small 06
+    originalName: 
+    pivot: {x: 0.48360172, y: 0.50546354}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 196
+      width: 183
+      height: 169
+    spriteID: 0dc160d309df7414688dd17e168070de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 196}
+    spritePosition: {x: 166, y: 179}
+  - name: Virus Spawner Medium To Small 07
+    originalName: 
+    pivot: {x: 0.48882374, y: 0.5309719}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 391
+      y: 196
+      width: 179
+      height: 159
+    spriteID: d629437f72a1e49d6a30135c10cf505c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 391, y: 196}
+    spritePosition: {x: 167, y: 180}
+  - name: Virus Spawner Medium To Small 08
+    originalName: 
+    pivot: {x: 0.4834767, y: 0.5323639}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 177
+      y: 532
+      width: 154
+      height: 136
+    spriteID: e391070d81fd14afea1120923bd70664
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 532}
+    spritePosition: {x: 180, y: 192}
+  - name: Virus Spawner Medium To Small 09
+    originalName: 
+    pivot: {x: 0.48230115, y: 0.5629448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 645
+      y: 532
+      width: 136
+      height: 118
+    spriteID: e5c6fc6b8051349f48a78dd5767c218f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 645, y: 532}
+    spritePosition: {x: 189, y: 198}
+  - name: Virus Spawner Small To Dead 01
+    originalName: 
+    pivot: {x: 0.48649105, y: 0.5907216}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 532
+      width: 112
+      height: 94
+    spriteID: dcf3562c51aff41dcb6177213789490c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 789, y: 532}
+    spritePosition: {x: 200, y: 209}
+  - name: Virus Spawner Small To Dead 02
+    originalName: 
+    pivot: {x: 0.48710513, y: 0.58925873}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 677
+      width: 112
+      height: 94
+    spriteID: ead4116f82e724a7c84358fd320873d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 677}
+    spritePosition: {x: 200, y: 209}
+  - name: Virus Spawner Small To Dead 03
+    originalName: 
+    pivot: {x: 0.48649105, y: 0.5907216}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 677
+      width: 112
+      height: 94
+    spriteID: 439b4db03869a42eea2c1e4b566610ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 677}
+    spritePosition: {x: 200, y: 209}
+  - name: Virus Spawner Small To Dead 04
+    originalName: 
+    pivot: {x: 0.48649105, y: 0.58998984}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 677
+      width: 112
+      height: 94
+    spriteID: 48cf3d256c465408eba11d4d596a2f3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 677}
+    spritePosition: {x: 200, y: 209}
+  - name: Virus Spawner Small To Dead 05
+    originalName: 
+    pivot: {x: 0.48649105, y: 0.58998984}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 364
+      y: 677
+      width: 112
+      height: 94
+    spriteID: 2c25f537280094776a8bcbfff421352f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 364, y: 677}
+    spritePosition: {x: 200, y: 209}
+  - name: Virus Spawner Small To Dead 06
+    originalName: 
+    pivot: {x: 0.48710522, y: 0.58998984}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 484
+      y: 677
+      width: 112
+      height: 94
+    spriteID: 0f8b500f950b4489e8a518bf529cdc6a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 484, y: 677}
+    spritePosition: {x: 200, y: 209}
+  - name: Virus Spawner Small To Dead 07
+    originalName: 
+    pivot: {x: 0.48649105, y: 0.58504164}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 123
+      y: 779
+      width: 112
+      height: 93
+    spriteID: 44359d85185054c828e76566c32d17c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 123, y: 779}
+    spritePosition: {x: 200, y: 210}
+  - name: Virus Spawner Small To Dead 08
+    originalName: 
+    pivot: {x: 0.49132586, y: 0.5907216}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 909
+      y: 532
+      width: 111
+      height: 94
+    spriteID: 9857d8643a23348b281e5e64428078f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 909, y: 532}
+    spritePosition: {x: 200, y: 209}
+  - name: Virus Spawner Small To Dead 09
+    originalName: 
+    pivot: {x: 0.4907067, y: 0.5907216}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 677
+      width: 111
+      height: 94
+    spriteID: da4ab4eca56f145cd870dc0e6e161848
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 677}
+    spritePosition: {x: 200, y: 209}
+  - name: Virus Spawner Small To Dead 10
+    originalName: 
+    pivot: {x: 0.4907067, y: 0.5907216}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 723
+      y: 677
+      width: 111
+      height: 94
+    spriteID: 0445639c6978249e5935dad2f9019722
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 723, y: 677}
+    spritePosition: {x: 200, y: 209}
+  - name: Virus Spawner Small To Dead 11
+    originalName: 
+    pivot: {x: 0.49132586, y: 0.5907216}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 842
+      y: 677
+      width: 111
+      height: 94
+    spriteID: c928d32ee58204c99809a9beeeece982
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 842, y: 677}
+    spritePosition: {x: 200, y: 209}
+  - name: Virus Spawner Small To Dead 12
+    originalName: 
+    pivot: {x: 0.4907063, y: 0.5907216}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 779
+      width: 111
+      height: 94
+    spriteID: ee6448d9b935447f99430029bc20db75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 779}
+    spritePosition: {x: 200, y: 209}
+  rigSpriteImportData:
+  - name: Virus Spawner Large
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 535
+      y: 373
+      width: 170
+      height: 133
+    spriteID: 0081cc4b836894ac399c189e8d35e59b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 535, y: 373}
+    spritePosition: {x: 171, y: 190}
+  - name: Virus Spawner Medium
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 499
+      y: 532
+      width: 138
+      height: 119
+    spriteID: 7668b2fbbc98c4d59aff3b7dfa394200
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 499, y: 532}
+    spritePosition: {x: 187, y: 197}
+  - name: Virus Spawner Small
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 891
+      y: 373
+      width: 112
+      height: 94
+    spriteID: 11908388bd4d0430fa02c8fc096bbbc8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 891, y: 373}
+    spritePosition: {x: 200, y: 209}
+  - name: Virus Spawner Large To Medium 01
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 713
+      y: 373
+      width: 170
+      height: 133
+    spriteID: a6c29e00468bb4ceead0261a48a4649f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 713, y: 373}
+    spritePosition: {x: 170, y: 191}
+  - name: Virus Spawner Large To Medium 02
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 373
+      width: 171
+      height: 151
+    spriteID: a70bfbbb4b949402298d9aed7b113f94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 373}
+    spritePosition: {x: 170, y: 182}
+  - name: Virus Spawner Large To Medium 03
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 183
+      y: 373
+      width: 172
+      height: 145
+    spriteID: 3eb423c4c82524a7792e05fc8ea58435
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 183, y: 373}
+    spritePosition: {x: 170, y: 187}
+  - name: Virus Spawner Large To Medium 04
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 578
+      y: 196
+      width: 198
+      height: 140
+    spriteID: 8ad0232fce5434c6c88146635e079648
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 578, y: 196}
+    spritePosition: {x: 154, y: 189}
+  - name: Virus Spawner Large To Medium 05
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 481
+      y: 4
+      width: 213
+      height: 166
+    spriteID: 8a7a2cfb2e01e48429cd2f4cac415b80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 481, y: 4}
+    spritePosition: {x: 150, y: 173}
+  - name: Virus Spawner Large To Medium 06
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 233
+      height: 184
+    spriteID: e338cfe388d9b4d6ba86323ebebf5e16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 138, y: 165}
+  - name: Virus Spawner Large To Medium 07
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 4
+      width: 228
+      height: 183
+    spriteID: 2c40d8bf94c564f838b6732d359116ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 245, y: 4}
+    spritePosition: {x: 141, y: 164}
+  - name: Virus Spawner Large To Medium 08
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 702
+      y: 4
+      width: 205
+      height: 164
+    spriteID: bd6fd6c3f0a374bfba58f4d8279cc4bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 702, y: 4}
+    spritePosition: {x: 156, y: 177}
+  - name: Virus Spawner Medium To Small 01
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 339
+      y: 532
+      width: 152
+      height: 132
+    spriteID: cef7013cccb4a42ea8a7477d08122578
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 339, y: 532}
+    spritePosition: {x: 182, y: 193}
+  - name: Virus Spawner Medium To Small 02
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 784
+      y: 196
+      width: 178
+      height: 149
+    spriteID: dacf8374ddfe2486d8bca951600c30ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 784, y: 196}
+    spritePosition: {x: 172, y: 193}
+  - name: Virus Spawner Medium To Small 03
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 532
+      width: 165
+      height: 137
+    spriteID: 61b96e9c14a994b70a834b2f0d98b4bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 532}
+    spritePosition: {x: 176, y: 193}
+  - name: Virus Spawner Medium To Small 04
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 363
+      y: 373
+      width: 164
+      height: 144
+    spriteID: a7c4a294727c94fd7907f354d01e4c45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 363, y: 373}
+    spritePosition: {x: 180, y: 182}
+  - name: Virus Spawner Medium To Small 05
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 196
+      width: 188
+      height: 164
+    spriteID: 4f63da3cd66bb4a849734d485d8c4260
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 195, y: 196}
+    spritePosition: {x: 161, y: 171}
+  - name: Virus Spawner Medium To Small 06
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 196
+      width: 183
+      height: 169
+    spriteID: 76c9e7fce691a43e38778d1a30e8e7c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 196}
+    spritePosition: {x: 167, y: 170}
+  - name: Virus Spawner Medium To Small 07
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 391
+      y: 196
+      width: 179
+      height: 159
+    spriteID: 675bdc5281e43408e844829405f88058
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 391, y: 196}
+    spritePosition: {x: 168, y: 171}
+  - name: Virus Spawner Medium To Small 08
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 177
+      y: 532
+      width: 154
+      height: 136
+    spriteID: 909389f6592c14968a7ad724eb809c2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 532}
+    spritePosition: {x: 181, y: 183}
+  - name: Virus Spawner Medium To Small 09
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 645
+      y: 532
+      width: 136
+      height: 118
+    spriteID: c7a3b1316d2bd42468f82e5ac3ea4b18
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 645, y: 532}
+    spritePosition: {x: 190, y: 189}
+  - name: Virus Spawner Small To Dead 01
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 532
+      width: 112
+      height: 94
+    spriteID: 24d6772aaf2b44f29b25f49653d671cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 789, y: 532}
+    spritePosition: {x: 200, y: 209}
+  - name: Virus Spawner Small To Dead 02
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 677
+      width: 112
+      height: 94
+    spriteID: 5638bf353be5b448594a0724305c7634
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 677}
+    spritePosition: {x: 200, y: 209}
+  - name: Virus Spawner Small To Dead 03
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 677
+      width: 112
+      height: 94
+    spriteID: 87efe40b693d74596bce749000664d6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 677}
+    spritePosition: {x: 200, y: 209}
+  - name: Virus Spawner Small To Dead 04
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 244
+      y: 677
+      width: 112
+      height: 94
+    spriteID: aa45ef93a6afe4a5ba0aa9ceb3d0c5f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 244, y: 677}
+    spritePosition: {x: 200, y: 209}
+  - name: Virus Spawner Small To Dead 05
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 364
+      y: 677
+      width: 112
+      height: 94
+    spriteID: aa1e868d79e5649e4adfb19cf15f285f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 364, y: 677}
+    spritePosition: {x: 200, y: 209}
+  - name: Virus Spawner Small To Dead 06
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 484
+      y: 677
+      width: 112
+      height: 94
+    spriteID: 5829d468daa114f2fafe477849e69c36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 484, y: 677}
+    spritePosition: {x: 200, y: 209}
+  - name: Virus Spawner Small To Dead 07
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 123
+      y: 779
+      width: 112
+      height: 93
+    spriteID: f6d704e17155f46c78436d6baa0c115f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 123, y: 779}
+    spritePosition: {x: 200, y: 210}
+  - name: Virus Spawner Small To Dead 08
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 909
+      y: 532
+      width: 111
+      height: 94
+    spriteID: 137a6fadd36bc473cb23653c1f82b6b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 909, y: 532}
+    spritePosition: {x: 200, y: 209}
+  - name: Virus Spawner Small To Dead 09
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 677
+      width: 111
+      height: 94
+    spriteID: 668c801ac59f543039a6080bb98e0dc1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 677}
+    spritePosition: {x: 200, y: 209}
+  - name: Virus Spawner Small To Dead 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 723
+      y: 677
+      width: 111
+      height: 94
+    spriteID: a94b5172db1e14e7491700ccdfec3c9e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 723, y: 677}
+    spritePosition: {x: 200, y: 209}
+  - name: Virus Spawner Small To Dead 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 842
+      y: 677
+      width: 111
+      height: 94
+    spriteID: 1583a04283a1f48b3927729c376f65de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 842, y: 677}
+    spritePosition: {x: 200, y: 209}
+  - name: Virus Spawner Small To Dead 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 779
+      width: 111
+      height: 94
+    spriteID: 9e4d01a9771694f978ebb821aaab8c5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 779}
+    spritePosition: {x: 200, y: 209}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: iPhone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers:
+  - name: Virus Spawner Large
+    spriteName: Virus Spawner Large
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 828ff2333aba34c139727a45b84bc6da
+    layerID: 40
+    mosaicPosition: {x: 535, y: 373}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Medium
+    spriteName: Virus Spawner Medium
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 335c73173180348789b112fc7065eb73
+    layerID: 39
+    mosaicPosition: {x: 499, y: 532}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small
+    spriteName: Virus Spawner Small
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8e6682d3bc5904ff4a9548f0b7f91c16
+    layerID: 38
+    mosaicPosition: {x: 891, y: 373}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Large To Medium
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 8cd61e04b59d545859cb4e91e8d0df1d
+    layerID: 36
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Virus Spawner Large To Medium 01
+    spriteName: Virus Spawner Large To Medium 01
+    isGroup: 0
+    parentIndex: 3
+    spriteID: be9e53df061574bbfb9abb13bdb86437
+    layerID: 35
+    mosaicPosition: {x: 713, y: 373}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Large To Medium 02
+    spriteName: Virus Spawner Large To Medium 02
+    isGroup: 0
+    parentIndex: 3
+    spriteID: dcb2449e780a3491fafe2ada821a1550
+    layerID: 34
+    mosaicPosition: {x: 4, y: 373}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Large To Medium 03
+    spriteName: Virus Spawner Large To Medium 03
+    isGroup: 0
+    parentIndex: 3
+    spriteID: c258c0e0d89ba4451955064caea815c0
+    layerID: 33
+    mosaicPosition: {x: 183, y: 373}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Large To Medium 04
+    spriteName: Virus Spawner Large To Medium 04
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 28da2a1921582431db44656edfd81a0d
+    layerID: 32
+    mosaicPosition: {x: 578, y: 196}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Large To Medium 05
+    spriteName: Virus Spawner Large To Medium 05
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 059cb700a226948df8d30e78e08df4d6
+    layerID: 31
+    mosaicPosition: {x: 481, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Large To Medium 06
+    spriteName: Virus Spawner Large To Medium 06
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 2e66ad64ab30c4b10b6b3279f0ba065e
+    layerID: 30
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Large To Medium 07
+    spriteName: Virus Spawner Large To Medium 07
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 2bffaef65383244f2a51377933ae183d
+    layerID: 29
+    mosaicPosition: {x: 245, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Large To Medium 08
+    spriteName: Virus Spawner Large To Medium 08
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 4d59300165c3c4b7ea50eb1a559d9d43
+    layerID: 28
+    mosaicPosition: {x: 702, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Medium To Small
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: c156ac00786684b7e8e74c57244ec8e2
+    layerID: 26
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Virus Spawner Medium To Small 01
+    spriteName: Virus Spawner Medium To Small 01
+    isGroup: 0
+    parentIndex: 12
+    spriteID: 186663c2edde440e4a122d3ee7f38ca6
+    layerID: 25
+    mosaicPosition: {x: 339, y: 532}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Medium To Small 02
+    spriteName: Virus Spawner Medium To Small 02
+    isGroup: 0
+    parentIndex: 12
+    spriteID: 6df58bb90e74648ef968f0d04611050e
+    layerID: 24
+    mosaicPosition: {x: 784, y: 196}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Medium To Small 03
+    spriteName: Virus Spawner Medium To Small 03
+    isGroup: 0
+    parentIndex: 12
+    spriteID: 22884b5b219c94c61b7413034b1757ae
+    layerID: 23
+    mosaicPosition: {x: 4, y: 532}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Medium To Small 04
+    spriteName: Virus Spawner Medium To Small 04
+    isGroup: 0
+    parentIndex: 12
+    spriteID: 27199eaf8c6d94c05b8f34494608411b
+    layerID: 22
+    mosaicPosition: {x: 363, y: 373}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Medium To Small 05
+    spriteName: Virus Spawner Medium To Small 05
+    isGroup: 0
+    parentIndex: 12
+    spriteID: 22f363dafb4d943ceb9937255fc2396f
+    layerID: 21
+    mosaicPosition: {x: 195, y: 196}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Medium To Small 06
+    spriteName: Virus Spawner Medium To Small 06
+    isGroup: 0
+    parentIndex: 12
+    spriteID: 0dc160d309df7414688dd17e168070de
+    layerID: 20
+    mosaicPosition: {x: 4, y: 196}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Medium To Small 07
+    spriteName: Virus Spawner Medium To Small 07
+    isGroup: 0
+    parentIndex: 12
+    spriteID: d629437f72a1e49d6a30135c10cf505c
+    layerID: 19
+    mosaicPosition: {x: 391, y: 196}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Medium To Small 08
+    spriteName: Virus Spawner Medium To Small 08
+    isGroup: 0
+    parentIndex: 12
+    spriteID: e391070d81fd14afea1120923bd70664
+    layerID: 18
+    mosaicPosition: {x: 177, y: 532}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Medium To Small 09
+    spriteName: Virus Spawner Medium To Small 09
+    isGroup: 0
+    parentIndex: 12
+    spriteID: e5c6fc6b8051349f48a78dd5767c218f
+    layerID: 17
+    mosaicPosition: {x: 645, y: 532}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 8c8a09cda6671441fa3a68f446759e47
+    layerID: 15
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 01
+    spriteName: Virus Spawner Small To Dead 01
+    isGroup: 0
+    parentIndex: 22
+    spriteID: dcf3562c51aff41dcb6177213789490c
+    layerID: 14
+    mosaicPosition: {x: 789, y: 532}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 02
+    spriteName: Virus Spawner Small To Dead 02
+    isGroup: 0
+    parentIndex: 22
+    spriteID: ead4116f82e724a7c84358fd320873d5
+    layerID: 13
+    mosaicPosition: {x: 4, y: 677}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 03
+    spriteName: Virus Spawner Small To Dead 03
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 439b4db03869a42eea2c1e4b566610ae
+    layerID: 12
+    mosaicPosition: {x: 124, y: 677}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 04
+    spriteName: Virus Spawner Small To Dead 04
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 48cf3d256c465408eba11d4d596a2f3e
+    layerID: 11
+    mosaicPosition: {x: 244, y: 677}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 05
+    spriteName: Virus Spawner Small To Dead 05
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 2c25f537280094776a8bcbfff421352f
+    layerID: 10
+    mosaicPosition: {x: 364, y: 677}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 06
+    spriteName: Virus Spawner Small To Dead 06
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 0f8b500f950b4489e8a518bf529cdc6a
+    layerID: 9
+    mosaicPosition: {x: 484, y: 677}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 07
+    spriteName: Virus Spawner Small To Dead 07
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 44359d85185054c828e76566c32d17c8
+    layerID: 8
+    mosaicPosition: {x: 123, y: 779}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 08
+    spriteName: Virus Spawner Small To Dead 08
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 9857d8643a23348b281e5e64428078f3
+    layerID: 7
+    mosaicPosition: {x: 909, y: 532}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 09
+    spriteName: Virus Spawner Small To Dead 09
+    isGroup: 0
+    parentIndex: 22
+    spriteID: da4ab4eca56f145cd870dc0e6e161848
+    layerID: 6
+    mosaicPosition: {x: 604, y: 677}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 10
+    spriteName: Virus Spawner Small To Dead 10
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 0445639c6978249e5935dad2f9019722
+    layerID: 5
+    mosaicPosition: {x: 723, y: 677}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 11
+    spriteName: Virus Spawner Small To Dead 11
+    isGroup: 0
+    parentIndex: 22
+    spriteID: c928d32ee58204c99809a9beeeece982
+    layerID: 4
+    mosaicPosition: {x: 842, y: 677}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 12
+    spriteName: Virus Spawner Small To Dead 12
+    isGroup: 0
+    parentIndex: 22
+    spriteID: ee6448d9b935447f99430029bc20db75
+    layerID: 3
+    mosaicPosition: {x: 4, y: 779}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  rigPSDLayers:
+  - name: Virus Spawner Large
+    spriteName: Virus Spawner Large
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0081cc4b836894ac399c189e8d35e59b
+    layerID: 40
+    mosaicPosition: {x: 535, y: 373}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Medium
+    spriteName: Virus Spawner Medium
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7668b2fbbc98c4d59aff3b7dfa394200
+    layerID: 39
+    mosaicPosition: {x: 499, y: 532}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small
+    spriteName: Virus Spawner Small
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 11908388bd4d0430fa02c8fc096bbbc8
+    layerID: 38
+    mosaicPosition: {x: 891, y: 373}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Large To Medium
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 39f5daa2f2c2248929ca44cad153a1f9
+    layerID: 36
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Virus Spawner Large To Medium 01
+    spriteName: Virus Spawner Large To Medium 01
+    isGroup: 0
+    parentIndex: 3
+    spriteID: a6c29e00468bb4ceead0261a48a4649f
+    layerID: 35
+    mosaicPosition: {x: 713, y: 373}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Large To Medium 02
+    spriteName: Virus Spawner Large To Medium 02
+    isGroup: 0
+    parentIndex: 3
+    spriteID: a70bfbbb4b949402298d9aed7b113f94
+    layerID: 34
+    mosaicPosition: {x: 4, y: 373}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Large To Medium 03
+    spriteName: Virus Spawner Large To Medium 03
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 3eb423c4c82524a7792e05fc8ea58435
+    layerID: 33
+    mosaicPosition: {x: 183, y: 373}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Large To Medium 04
+    spriteName: Virus Spawner Large To Medium 04
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 8ad0232fce5434c6c88146635e079648
+    layerID: 32
+    mosaicPosition: {x: 578, y: 196}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Large To Medium 05
+    spriteName: Virus Spawner Large To Medium 05
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 8a7a2cfb2e01e48429cd2f4cac415b80
+    layerID: 31
+    mosaicPosition: {x: 481, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Large To Medium 06
+    spriteName: Virus Spawner Large To Medium 06
+    isGroup: 0
+    parentIndex: 3
+    spriteID: e338cfe388d9b4d6ba86323ebebf5e16
+    layerID: 30
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Large To Medium 07
+    spriteName: Virus Spawner Large To Medium 07
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 2c40d8bf94c564f838b6732d359116ff
+    layerID: 29
+    mosaicPosition: {x: 245, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Large To Medium 08
+    spriteName: Virus Spawner Large To Medium 08
+    isGroup: 0
+    parentIndex: 3
+    spriteID: bd6fd6c3f0a374bfba58f4d8279cc4bc
+    layerID: 28
+    mosaicPosition: {x: 702, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Medium To Small
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 488959fc2e9ea4f14a35993cc97ea135
+    layerID: 26
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Virus Spawner Medium To Small 01
+    spriteName: Virus Spawner Medium To Small 01
+    isGroup: 0
+    parentIndex: 12
+    spriteID: cef7013cccb4a42ea8a7477d08122578
+    layerID: 25
+    mosaicPosition: {x: 339, y: 532}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Medium To Small 02
+    spriteName: Virus Spawner Medium To Small 02
+    isGroup: 0
+    parentIndex: 12
+    spriteID: dacf8374ddfe2486d8bca951600c30ab
+    layerID: 24
+    mosaicPosition: {x: 784, y: 196}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Medium To Small 03
+    spriteName: Virus Spawner Medium To Small 03
+    isGroup: 0
+    parentIndex: 12
+    spriteID: 61b96e9c14a994b70a834b2f0d98b4bc
+    layerID: 23
+    mosaicPosition: {x: 4, y: 532}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Medium To Small 04
+    spriteName: Virus Spawner Medium To Small 04
+    isGroup: 0
+    parentIndex: 12
+    spriteID: a7c4a294727c94fd7907f354d01e4c45
+    layerID: 22
+    mosaicPosition: {x: 363, y: 373}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Medium To Small 05
+    spriteName: Virus Spawner Medium To Small 05
+    isGroup: 0
+    parentIndex: 12
+    spriteID: 4f63da3cd66bb4a849734d485d8c4260
+    layerID: 21
+    mosaicPosition: {x: 195, y: 196}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Medium To Small 06
+    spriteName: Virus Spawner Medium To Small 06
+    isGroup: 0
+    parentIndex: 12
+    spriteID: 76c9e7fce691a43e38778d1a30e8e7c0
+    layerID: 20
+    mosaicPosition: {x: 4, y: 196}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Medium To Small 07
+    spriteName: Virus Spawner Medium To Small 07
+    isGroup: 0
+    parentIndex: 12
+    spriteID: 675bdc5281e43408e844829405f88058
+    layerID: 19
+    mosaicPosition: {x: 391, y: 196}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Medium To Small 08
+    spriteName: Virus Spawner Medium To Small 08
+    isGroup: 0
+    parentIndex: 12
+    spriteID: 909389f6592c14968a7ad724eb809c2f
+    layerID: 18
+    mosaicPosition: {x: 177, y: 532}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Medium To Small 09
+    spriteName: Virus Spawner Medium To Small 09
+    isGroup: 0
+    parentIndex: 12
+    spriteID: c7a3b1316d2bd42468f82e5ac3ea4b18
+    layerID: 17
+    mosaicPosition: {x: 645, y: 532}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 32b72c12633e740eab4df3bdd46e141d
+    layerID: 15
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 01
+    spriteName: Virus Spawner Small To Dead 01
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 24d6772aaf2b44f29b25f49653d671cb
+    layerID: 14
+    mosaicPosition: {x: 789, y: 532}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 02
+    spriteName: Virus Spawner Small To Dead 02
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 5638bf353be5b448594a0724305c7634
+    layerID: 13
+    mosaicPosition: {x: 4, y: 677}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 03
+    spriteName: Virus Spawner Small To Dead 03
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 87efe40b693d74596bce749000664d6c
+    layerID: 12
+    mosaicPosition: {x: 124, y: 677}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 04
+    spriteName: Virus Spawner Small To Dead 04
+    isGroup: 0
+    parentIndex: 22
+    spriteID: aa45ef93a6afe4a5ba0aa9ceb3d0c5f6
+    layerID: 11
+    mosaicPosition: {x: 244, y: 677}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 05
+    spriteName: Virus Spawner Small To Dead 05
+    isGroup: 0
+    parentIndex: 22
+    spriteID: aa1e868d79e5649e4adfb19cf15f285f
+    layerID: 10
+    mosaicPosition: {x: 364, y: 677}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 06
+    spriteName: Virus Spawner Small To Dead 06
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 5829d468daa114f2fafe477849e69c36
+    layerID: 9
+    mosaicPosition: {x: 484, y: 677}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 07
+    spriteName: Virus Spawner Small To Dead 07
+    isGroup: 0
+    parentIndex: 22
+    spriteID: f6d704e17155f46c78436d6baa0c115f
+    layerID: 8
+    mosaicPosition: {x: 123, y: 779}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 08
+    spriteName: Virus Spawner Small To Dead 08
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 137a6fadd36bc473cb23653c1f82b6b3
+    layerID: 7
+    mosaicPosition: {x: 909, y: 532}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 09
+    spriteName: Virus Spawner Small To Dead 09
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 668c801ac59f543039a6080bb98e0dc1
+    layerID: 6
+    mosaicPosition: {x: 604, y: 677}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 10
+    spriteName: Virus Spawner Small To Dead 10
+    isGroup: 0
+    parentIndex: 22
+    spriteID: a94b5172db1e14e7491700ccdfec3c9e
+    layerID: 5
+    mosaicPosition: {x: 723, y: 677}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 11
+    spriteName: Virus Spawner Small To Dead 11
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 1583a04283a1f48b3927729c376f65de
+    layerID: 4
+    mosaicPosition: {x: 842, y: 677}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Virus Spawner Small To Dead 12
+    spriteName: Virus Spawner Small To Dead 12
+    isGroup: 0
+    parentIndex: 22
+    spriteID: 9e4d01a9771694f978ebb821aaab8c5e
+    layerID: 3
+    mosaicPosition: {x: 4, y: 779}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638294590387474650
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

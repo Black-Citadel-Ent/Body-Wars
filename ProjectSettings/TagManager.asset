@@ -11,10 +11,10 @@ TagManager:
   - 
   - Water
   - UI
-  - Player
-  - 
-  - 
-  - 
+  - PlayerHit
+  - PlayerShot
+  - EnemyHit
+  - EnemyShot
   - 
   - 
   - 
@@ -43,4 +43,16 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 560106897
+    locked: 0
+  - name: Player Shot
+    uniqueID: 1130889155
+    locked: 0
+  - name: Enemy
+    uniqueID: 3318943603
+    locked: 0
+  - name: Enemy Shot
+    uniqueID: 3448840015
+    locked: 0
+  - name: Life Bars
+    uniqueID: 750335019
     locked: 0
