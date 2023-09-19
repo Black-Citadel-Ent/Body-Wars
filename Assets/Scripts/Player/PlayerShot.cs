@@ -38,14 +38,16 @@ namespace Player
                 ReturnShot(this);
         }
 
-        private void OnCollisionEnter2D(Collision2D other)
+        private void OnCollisionEnter2D(Collision2D collision)
         {
             _setup.BaseObject.SetActive(false);
             _setup.HitObject.SetActive(true);
             _hit = true;
             _destroyTime = Time.fixedTime + 5.0f / 12.0f;
 
-            other.gameObject.GetComponent<ILife>()?.ApplyDamage(damage, ILife.DamageType.Energy);
+            // TODO NEXT Collision objects not necessarily in order
+            var life = collision.gameObject.GetComponent<ILife>() ?? collision.otherRigidbody.gameObject.GetComponent<ILife>();
+            life?.ApplyDamage(damage, ILife.DamageType.Energy);
         }
 
         private static readonly Queue<PlayerShot> _shotQueue = new();

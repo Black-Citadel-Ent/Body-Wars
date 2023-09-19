@@ -20,6 +20,7 @@ namespace Player
         public PlayerShot ShotTemplate => _player.ShotTemplate;
         public float ShotsPerSecond => _player.ShotsPerSecond;
         public Transform FirePosition => _setup.FirePosition;
+        public Vector2 ApplyImpact => _player.ApplyImpact;
 
         public PlayerContext(PlayerSetup setup, Player player)
         {

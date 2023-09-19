@@ -30,7 +30,7 @@ namespace Virus
             _setup = setup;
         }
 
-        public void ApplyDamage(float amount, ILife.DamageType type)
+        public void ApplyDamage(float amount, ILife.DamageType type, float direction)
         {
             _life -= amount;
             _context.State.Damage();

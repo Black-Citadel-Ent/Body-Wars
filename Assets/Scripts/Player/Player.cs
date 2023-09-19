@@ -17,9 +17,9 @@ namespace Player
         private PlayerSetup _setup;
         private Vector2 _moveInput;
         private Vector2 _aimInput;
-        private float _fireAtTime;
         private float _life;
         private float _hitImmuneTime;
+        private Vector2 _applyImpact;
 
         private PlayerContext _context;
 
@@ -30,6 +30,7 @@ namespace Player
         public float TurretTurnSpeed => turretTurnSpeed;
         public PlayerShot ShotTemplate => shotTemplate;
         public float ShotsPerSecond => shotsPerSecond;
+        public Vector2 ApplyImpact => _applyImpact;
 
         public void OnMove(InputAction.CallbackContext context)
         {
@@ -46,16 +47,18 @@ namespace Player
             _setup = setup;
         }
 
-        public void ApplyDamage(float amount, ILife.DamageType type)
+        public void ApplyDamage(float amount, ILife.DamageType type, float direction)
         {
             if (Time.fixedTime > _hitImmuneTime)
             {
                 _life -= amount;
                 _setup.LifeBar.SetLife(_life / maxLife);
+                _hitImmuneTime = Time.fixedTime + hitImmunity;
+
                 if (type == ILife.DamageType.Electric)
                     _context.SetState(PlayerContext.StateName.ElectricStun);
-
-                _hitImmuneTime = Time.fixedTime + hitImmunity;
+                if (type == ILife.DamageType.Impact)
+                    _applyImpact = direction.DegreesToVector2() * 12.0f;
             }
         }
 
@@ -70,6 +73,7 @@ namespace Player
         private void FixedUpdate()
         {
             _context.CurrentState.Update();
+            _applyImpact = Vector2.zero;
         }
     }
 }

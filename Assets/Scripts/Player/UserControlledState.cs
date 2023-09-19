@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace Player
 {
-    public class UserControlledState : PlayerState
+    public class UserControlledState : MotionState
     {
         private float _fireTimer;
         
@@ -11,6 +11,7 @@ namespace Player
         {
             base.Update();
             var motion = Vector2.zero;
+
             if (!Context.MoveInput.magnitude.NearZero())
             {
                 var dir = BaseBehavior.TurnTowards(Context.Body.rotation, Context.MoveInput.ToDegrees(), Context.TurnSpeed * Context.MoveInput.magnitude);
@@ -18,7 +19,7 @@ namespace Player
                 motion = dir.DegreesToVector2().normalized *
                          (Context.Speed * Context.MoveInput.magnitude);
             }
-            Context.Body.velocity = motion;
+            Context.Body.velocity = motion + Motion;
 
             if (!Context.AimInput.magnitude.NearZero())
             {

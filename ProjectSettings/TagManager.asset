@@ -15,7 +15,7 @@ TagManager:
   - PlayerShot
   - EnemyHit
   - EnemyShot
-  - 
+  - EnemyDetect
   - 
   - 
   - 

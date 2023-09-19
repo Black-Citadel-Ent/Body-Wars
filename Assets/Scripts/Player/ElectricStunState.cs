@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace Player
 {
-    public class ElectricStunState : PlayerState
+    public class ElectricStunState : MotionState
     {
         private float _effectTime;
         private Vector2 _baseVelocity;
@@ -21,7 +21,7 @@ namespace Player
         {
             base.Update();
             var velMul = (_effectTime - Time.fixedTime).ClampLerp(0.5f, 0, 0.8f, 0.3f);
-            Context.Body.velocity = _baseVelocity * velMul;
+            Context.Body.velocity = _baseVelocity * velMul + Motion;
             if(Time.fixedTime >= _effectTime)
                 Context.SetState(PlayerContext.StateName.UserControlled);
         }

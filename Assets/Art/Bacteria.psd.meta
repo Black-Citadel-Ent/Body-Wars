@@ -98,18 +98,18 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
     spritePosition: {x: 0, y: 0}
   mosaicSpriteImportData:
-  - name: Bacteria Move 01
+  - name: Bacteria Die 01
     originalName: 
-    pivot: {x: 0.8796381, y: 0.48131165}
+    pivot: {x: 0.68110216, y: 0.51424694}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
-      y: 306
-      width: 224
-      height: 50
-    spriteID: b10977b37c7a04c38bc008534d31e040
+      y: 100
+      width: 190
+      height: 67
+    spriteID: cd8a9dc0f27294dcdb9c47b9619a55c5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -117,188 +117,20 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 4, y: 306}
-    spritePosition: {x: 144, y: 232}
-  - name: Bacteria Move 02
+    uvTransform: {x: 4, y: 100}
+    spritePosition: {x: 150, y: 222}
+  - name: Bacteria Die 02
     originalName: 
-    pivot: {x: 0.8784728, y: 0.48932225}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 236
-      y: 306
-      width: 222
-      height: 45
-    spriteID: 414c0c0f84b8e43bc910f6d271918f35
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 236, y: 306}
-    spritePosition: {x: 146, y: 234}
-  - name: Bacteria Move 04
-    originalName: 
-    pivot: {x: 0.8745816, y: 0.4895576}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 364
-      width: 215
-      height: 51
-    spriteID: 2c34fbc2a04804ab1a7add4726ffb9e0
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 364}
-    spritePosition: {x: 153, y: 231}
-  - name: Bacteria Move 05
-    originalName: 
-    pivot: {x: 0.87156385, y: 0.5003575}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 203
-      y: 233
-      width: 210
-      height: 56
-    spriteID: 24e3dba8adede4c5887d93570676e3ae
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 203, y: 233}
-    spritePosition: {x: 158, y: 228}
-  - name: Bacteria Move 06
-    originalName: 
-    pivot: {x: 0.87220436, y: 0.5004883}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 203
-      y: 86
-      width: 211
-      height: 60
-    spriteID: 8995c3d0def9442fdb88a0fd2b3c88ce
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 203, y: 86}
-    spritePosition: {x: 157, y: 226}
-  - name: Bacteria Move 07
-    originalName: 
-    pivot: {x: 0.8684262, y: 0.4756685}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 164
-      width: 205
-      height: 61
-    spriteID: 4753fa39b25dc4dfcae4671e4a0e308b
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 164}
-    spritePosition: {x: 163, y: 227}
-  - name: Bacteria Move 08
-    originalName: 
-    pivot: {x: 0.8629903, y: 0.46688816}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 217
-      y: 164
-      width: 197
-      height: 60
-    spriteID: 9014965b06a0e4e62aaeec621c74af8b
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 217, y: 164}
-    spritePosition: {x: 171, y: 228}
-  - name: Bacteria Move 09
-    originalName: 
-    pivot: {x: 0.8588381, y: 0.4906621}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 233
-      width: 191
-      height: 65
-    spriteID: 528ca71cc4a564111927a119851f38b2
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 233}
-    spritePosition: {x: 177, y: 224}
-  - name: Bacteria Move 10
-    originalName: 
-    pivot: {x: 0.85858476, y: 0.5135545}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 86
-      width: 191
-      height: 70
-    spriteID: 932dcb01714da4992b55608dc261b8d9
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 86}
-    spritePosition: {x: 177, y: 220}
-  - name: Bacteria Move 11
-    originalName: 
-    pivot: {x: 0.8549269, y: 0.49945888}
+    pivot: {x: 0.7058132, y: 0.50536484}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 186
-      height: 74
-    spriteID: 35b9e3c55fba340eda047059182ac491
+      width: 209
+      height: 88
+    spriteID: 0ab49f2c2bc8e49b1a02f5a7522cc165
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -307,19 +139,19 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-    spritePosition: {x: 182, y: 219}
-  - name: Bacteria Move 12
+    spritePosition: {x: 132, y: 212}
+  - name: Bacteria Die 03
     originalName: 
-    pivot: {x: 0.8517991, y: 0.48685274}
+    pivot: {x: 0.5754083, y: 0.4934097}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 198
-      y: 4
-      width: 182
-      height: 74
-    spriteID: 1a222e81de3174999ba7b91f8fb1c502
+      x: 4
+      y: 253
+      width: 145
+      height: 82
+    spriteID: 5d855bda9f2614544aaa45b2e3a98066
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -327,7 +159,427 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 198, y: 4}
+    uvTransform: {x: 4, y: 253}
+    spritePosition: {x: 196, y: 216}
+  - name: Bacteria Die 04
+    originalName: 
+    pivot: {x: 0.49999982, y: 0.50547993}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 343
+      width: 123
+      height: 90
+    spriteID: a7e7da810614f4389bf71ba89b39c24c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 343}
+    spritePosition: {x: 218, y: 211}
+  - name: Bacteria Die 05
+    originalName: 
+    pivot: {x: 0.4959463, y: 0.5000013}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 135
+      y: 402
+      width: 122
+      height: 23
+    spriteID: fd0e77b21db7f45cf8232808483c5e8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 135, y: 402}
+    spritePosition: {x: 219, y: 245}
+  - name: Bacteria Attack 01
+    originalName: 
+    pivot: {x: 0.6711216, y: 0.48020354}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 549
+      y: 253
+      width: 193
+      height: 55
+    spriteID: b39f3328afbed4acd9807c6e6d740720
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 549, y: 253}
+    spritePosition: {x: 150, y: 230}
+  - name: Bacteria Attack 02
+    originalName: 
+    pivot: {x: 0.6543799, y: 0.49840772}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 790
+      y: 175
+      width: 201
+      height: 57
+    spriteID: e0311c34cc75e4736b9598306a39f6fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 790, y: 175}
+    spritePosition: {x: 148, y: 228}
+  - name: Bacteria Attack 03
+    originalName: 
+    pivot: {x: 0.6022876, y: 0.49846223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 202
+      y: 100
+      width: 212
+      height: 59
+    spriteID: c590bc039308a4494b0008c258e48577
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 202, y: 100}
+    spritePosition: {x: 152, y: 227}
+  - name: Bacteria Attack 04
+    originalName: 
+    pivot: {x: 0.5646417, y: 0.51636153}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 221
+      y: 4
+      width: 233
+      height: 61
+    spriteID: 0ac68467e212e4c5197b2bd65a4e4da6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 4}
+    spritePosition: {x: 148, y: 225}
+  - name: Bacteria Attack 05
+    originalName: 
+    pivot: {x: 0.5959978, y: 0.49846223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 462
+      y: 4
+      width: 224
+      height: 59
+    spriteID: c4a58f8bac6c542aba1b26e41d008fe4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 462, y: 4}
+    spritePosition: {x: 146, y: 227}
+  - name: Bacteria Attack 06
+    originalName: 
+    pivot: {x: 0.6458437, y: 0.5162747}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 583
+      y: 175
+      width: 199
+      height: 59
+    spriteID: d03aef066c2914239b2a1dc55f99d035
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 583, y: 175}
+    spritePosition: {x: 151, y: 226}
+  - name: Bacteria Attack 07
+    originalName: 
+    pivot: {x: 0.6691652, y: 0.49793532}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 632
+      y: 100
+      width: 198
+      height: 61
+    spriteID: 65300758eda254ae986e9caeb34699db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 632, y: 100}
+    spritePosition: {x: 147, y: 226}
+  - name: Bacteria Move 01
+    originalName: 
+    pivot: {x: 0.61075854, y: 0.48729736}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 253
+      width: 222
+      height: 50
+    spriteID: e1d70cb9f3a7a4bd683d8d50b090525d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 253}
+    spritePosition: {x: 144, y: 232}
+  - name: Bacteria Move 02
+    originalName: 
+    pivot: {x: 0.66740084, y: 0.4979838}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 330
+      y: 343
+      width: 200
+      height: 45
+    spriteID: 968179fd9a17e4b179b8c57ff78750a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 330, y: 343}
+    spritePosition: {x: 146, y: 234}
+  - name: Bacteria Move 04
+    originalName: 
+    pivot: {x: 0.6766121, y: 0.4982207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 135
+      y: 343
+      width: 187
+      height: 51
+    spriteID: 0d3780bacdd6445398e9f90627fe008c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 135, y: 343}
+    spritePosition: {x: 153, y: 231}
+  - name: Bacteria Move 05
+    originalName: 
+    pivot: {x: 0.6677274, y: 0.5080152}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 750
+      y: 253
+      width: 182
+      height: 56
+    spriteID: f677814b2e34e4feca3a1c68196ebee9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 750, y: 253}
+    spritePosition: {x: 158, y: 228}
+  - name: Bacteria Move 06
+    originalName: 
+    pivot: {x: 0.606453, y: 0.50756073}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 422
+      y: 100
+      width: 202
+      height: 60
+    spriteID: 71b875f284a834715a96c01c68b83142
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 422, y: 100}
+    spritePosition: {x: 157, y: 226}
+  - name: Bacteria Move 07
+    originalName: 
+    pivot: {x: 0.65788406, y: 0.48215073}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 838
+      y: 100
+      width: 177
+      height: 61
+    spriteID: 5925c335ae4e04f0d8734610d3cc273b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 838, y: 100}
+    spritePosition: {x: 163, y: 227}
+  - name: Bacteria Move 08
+    originalName: 
+    pivot: {x: 0.55323565, y: 0.47429198}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 379
+      y: 175
+      width: 196
+      height: 60
+    spriteID: e7ac423a859c84d0196081d91e57d4f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 379, y: 175}
+    spritePosition: {x: 171, y: 228}
+  - name: Bacteria Move 09
+    originalName: 
+    pivot: {x: 0.5576938, y: 0.49999952}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 187
+      y: 175
+      width: 184
+      height: 65
+    spriteID: 9353d3b9f8bcf4355a3fa8eb073662fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 187, y: 175}
+    spritePosition: {x: 177, y: 224}
+  - name: Bacteria Move 10
+    originalName: 
+    pivot: {x: 0.5860658, y: 0.5194423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 175
+      width: 175
+      height: 70
+    spriteID: 414bc5c59ec674ceeae062307a792ed3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 175}
+    spritePosition: {x: 177, y: 220}
+  - name: Bacteria Move 11
+    originalName: 
+    pivot: {x: 0.56048805, y: 0.50490427}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 694
+      y: 4
+      width: 174
+      height: 74
+    spriteID: c1bf04b14eefb4d9b9e448bcff801c90
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 694, y: 4}
+    spritePosition: {x: 182, y: 219}
+  - name: Bacteria Move 12
+    originalName: 
+    pivot: {x: 0.60722876, y: 0.4926428}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 157
+      y: 253
+      width: 154
+      height: 74
+    spriteID: f65563dbfc0d246cf8b8dc67a342b488
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 157, y: 253}
     spritePosition: {x: 186, y: 220}
   rigSpriteImportData:
   - name: Bacteria Move 01
@@ -666,12 +918,162 @@ ScriptedImporter:
   spritePackingTag: 
   resliceFromLayer: 0
   mosaicPSDLayers:
+  - name: Align
+    spriteName: Align
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1ad54f5aa915f44349b04e74ec3d9467
+    layerID: 42
+    mosaicPosition: {x: 999, y: 175}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Bacteria Die
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 4e26b884360eb417bac3aa8bc26392ba
+    layerID: 50
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bacteria Die 01
+    spriteName: Bacteria Die 01
+    isGroup: 0
+    parentIndex: 1
+    spriteID: cd8a9dc0f27294dcdb9c47b9619a55c5
+    layerID: 49
+    mosaicPosition: {x: 4, y: 100}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bacteria Die 02
+    spriteName: Bacteria Die 02
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 0ab49f2c2bc8e49b1a02f5a7522cc165
+    layerID: 48
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bacteria Die 03
+    spriteName: Bacteria Die 03
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 5d855bda9f2614544aaa45b2e3a98066
+    layerID: 47
+    mosaicPosition: {x: 4, y: 253}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bacteria Die 04
+    spriteName: Bacteria Die 04
+    isGroup: 0
+    parentIndex: 1
+    spriteID: a7e7da810614f4389bf71ba89b39c24c
+    layerID: 46
+    mosaicPosition: {x: 4, y: 343}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bacteria Die 05
+    spriteName: Bacteria Die 05
+    isGroup: 0
+    parentIndex: 1
+    spriteID: fd0e77b21db7f45cf8232808483c5e8e
+    layerID: 45
+    mosaicPosition: {x: 135, y: 402}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bacteria Attack
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 8c0cec5de994b409e8e407c1963b4a70
+    layerID: 40
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bacteria Attack 01
+    spriteName: Bacteria Attack 01
+    isGroup: 0
+    parentIndex: 7
+    spriteID: b39f3328afbed4acd9807c6e6d740720
+    layerID: 39
+    mosaicPosition: {x: 549, y: 253}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bacteria Attack 02
+    spriteName: Bacteria Attack 02
+    isGroup: 0
+    parentIndex: 7
+    spriteID: e0311c34cc75e4736b9598306a39f6fc
+    layerID: 38
+    mosaicPosition: {x: 790, y: 175}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bacteria Attack 03
+    spriteName: Bacteria Attack 03
+    isGroup: 0
+    parentIndex: 7
+    spriteID: c590bc039308a4494b0008c258e48577
+    layerID: 37
+    mosaicPosition: {x: 202, y: 100}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bacteria Attack 04
+    spriteName: Bacteria Attack 04
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 0ac68467e212e4c5197b2bd65a4e4da6
+    layerID: 36
+    mosaicPosition: {x: 221, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bacteria Attack 05
+    spriteName: Bacteria Attack 05
+    isGroup: 0
+    parentIndex: 7
+    spriteID: c4a58f8bac6c542aba1b26e41d008fe4
+    layerID: 35
+    mosaicPosition: {x: 462, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bacteria Attack 06
+    spriteName: Bacteria Attack 06
+    isGroup: 0
+    parentIndex: 7
+    spriteID: d03aef066c2914239b2a1dc55f99d035
+    layerID: 44
+    mosaicPosition: {x: 583, y: 175}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bacteria Attack 07
+    spriteName: Bacteria Attack 07
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 65300758eda254ae986e9caeb34699db
+    layerID: 43
+    mosaicPosition: {x: 632, y: 100}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Bacteria Move
     spriteName: 
     isGroup: 1
     parentIndex: -1
-    spriteID: bc949ccbf1b3a4fefaf2e0a82a804393
-    layerID: 15
+    spriteID: 006b4340856cf454197c832919b13c6b
+    layerID: 31
     mosaicPosition: {x: 0, y: 0}
     flatten: 0
     isImported: 0
@@ -679,110 +1081,110 @@ ScriptedImporter:
   - name: Bacteria Move 01
     spriteName: Bacteria Move 01
     isGroup: 0
-    parentIndex: 0
-    spriteID: b10977b37c7a04c38bc008534d31e040
-    layerID: 14
-    mosaicPosition: {x: 4, y: 306}
+    parentIndex: 15
+    spriteID: e1d70cb9f3a7a4bd683d8d50b090525d
+    layerID: 30
+    mosaicPosition: {x: 319, y: 253}
     flatten: 0
     isImported: 1
     isVisible: 1
   - name: Bacteria Move 02
     spriteName: Bacteria Move 02
     isGroup: 0
-    parentIndex: 0
-    spriteID: 414c0c0f84b8e43bc910f6d271918f35
-    layerID: 13
-    mosaicPosition: {x: 236, y: 306}
+    parentIndex: 15
+    spriteID: 968179fd9a17e4b179b8c57ff78750a9
+    layerID: 29
+    mosaicPosition: {x: 330, y: 343}
     flatten: 0
     isImported: 1
     isVisible: 1
   - name: Bacteria Move 04
     spriteName: Bacteria Move 04
     isGroup: 0
-    parentIndex: 0
-    spriteID: 2c34fbc2a04804ab1a7add4726ffb9e0
-    layerID: 11
-    mosaicPosition: {x: 4, y: 364}
+    parentIndex: 15
+    spriteID: 0d3780bacdd6445398e9f90627fe008c
+    layerID: 27
+    mosaicPosition: {x: 135, y: 343}
     flatten: 0
     isImported: 1
     isVisible: 1
   - name: Bacteria Move 05
     spriteName: Bacteria Move 05
     isGroup: 0
-    parentIndex: 0
-    spriteID: 24e3dba8adede4c5887d93570676e3ae
-    layerID: 10
-    mosaicPosition: {x: 203, y: 233}
+    parentIndex: 15
+    spriteID: f677814b2e34e4feca3a1c68196ebee9
+    layerID: 26
+    mosaicPosition: {x: 750, y: 253}
     flatten: 0
     isImported: 1
     isVisible: 1
   - name: Bacteria Move 06
     spriteName: Bacteria Move 06
     isGroup: 0
-    parentIndex: 0
-    spriteID: 8995c3d0def9442fdb88a0fd2b3c88ce
-    layerID: 9
-    mosaicPosition: {x: 203, y: 86}
+    parentIndex: 15
+    spriteID: 71b875f284a834715a96c01c68b83142
+    layerID: 25
+    mosaicPosition: {x: 422, y: 100}
     flatten: 0
     isImported: 1
     isVisible: 1
   - name: Bacteria Move 07
     spriteName: Bacteria Move 07
     isGroup: 0
-    parentIndex: 0
-    spriteID: 4753fa39b25dc4dfcae4671e4a0e308b
-    layerID: 8
-    mosaicPosition: {x: 4, y: 164}
+    parentIndex: 15
+    spriteID: 5925c335ae4e04f0d8734610d3cc273b
+    layerID: 24
+    mosaicPosition: {x: 838, y: 100}
     flatten: 0
     isImported: 1
     isVisible: 1
   - name: Bacteria Move 08
     spriteName: Bacteria Move 08
     isGroup: 0
-    parentIndex: 0
-    spriteID: 9014965b06a0e4e62aaeec621c74af8b
-    layerID: 7
-    mosaicPosition: {x: 217, y: 164}
+    parentIndex: 15
+    spriteID: e7ac423a859c84d0196081d91e57d4f7
+    layerID: 23
+    mosaicPosition: {x: 379, y: 175}
     flatten: 0
     isImported: 1
     isVisible: 1
   - name: Bacteria Move 09
     spriteName: Bacteria Move 09
     isGroup: 0
-    parentIndex: 0
-    spriteID: 528ca71cc4a564111927a119851f38b2
-    layerID: 6
-    mosaicPosition: {x: 4, y: 233}
+    parentIndex: 15
+    spriteID: 9353d3b9f8bcf4355a3fa8eb073662fa
+    layerID: 22
+    mosaicPosition: {x: 187, y: 175}
     flatten: 0
     isImported: 1
     isVisible: 1
   - name: Bacteria Move 10
     spriteName: Bacteria Move 10
     isGroup: 0
-    parentIndex: 0
-    spriteID: 932dcb01714da4992b55608dc261b8d9
-    layerID: 5
-    mosaicPosition: {x: 4, y: 86}
+    parentIndex: 15
+    spriteID: 414bc5c59ec674ceeae062307a792ed3
+    layerID: 21
+    mosaicPosition: {x: 4, y: 175}
     flatten: 0
     isImported: 1
     isVisible: 1
   - name: Bacteria Move 11
     spriteName: Bacteria Move 11
     isGroup: 0
-    parentIndex: 0
-    spriteID: 35b9e3c55fba340eda047059182ac491
-    layerID: 4
-    mosaicPosition: {x: 4, y: 4}
+    parentIndex: 15
+    spriteID: c1bf04b14eefb4d9b9e448bcff801c90
+    layerID: 20
+    mosaicPosition: {x: 694, y: 4}
     flatten: 0
     isImported: 1
     isVisible: 1
   - name: Bacteria Move 12
     spriteName: Bacteria Move 12
     isGroup: 0
-    parentIndex: 0
-    spriteID: 1a222e81de3174999ba7b91f8fb1c502
-    layerID: 3
-    mosaicPosition: {x: 198, y: 4}
+    parentIndex: 15
+    spriteID: f65563dbfc0d246cf8b8dc67a342b488
+    layerID: 19
+    mosaicPosition: {x: 157, y: 253}
     flatten: 0
     isImported: 1
     isVisible: 1
